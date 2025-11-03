@@ -10,5 +10,5 @@ int add(int a , int d){
   return a+d;
 }
 
-int sub(int a , int f,int c){
-  return a-f-c;}
+int sub(int a , int f,int c,int d){
+  return a-f-c-d;}
