@@ -9,3 +9,6 @@ int main(){
 int add(int a , int d){
   return a+d;
 }
+
+int sub(int a , int b){
+  return a-b;}
